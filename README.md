@@ -12,7 +12,7 @@ Performed **linear regression** using `statsmodels.ols` to measure how pricing a
 
 **Top Price-Sensitive Products:**
 
-See [`insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
+See [`Insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
 
 ---
 
@@ -25,7 +25,7 @@ Analyzed monthly sales trends with line plots.
 - **Bag Snacks** increased steadily toward December
 - **Oral Hygiene Products** dipped in December–January
 
-See [`insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
+See [`Insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
 
 ---
 
@@ -37,7 +37,7 @@ Used bar plots to compare average sales with and without promotional strategies.
 **Feature + Display** = Sales Boost  
 **TPR_ONLY** = No effect
 
-See [`insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
+See [`Insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
 
 ---
 
@@ -45,7 +45,7 @@ See [`insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
 
 Discovered an unusual **drop in sales across all categories in March 2010**.
 
-See [`insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
+See [`Insight_analysis.ipynb`](ExploratoryAnalytics.ipynb) for code and output.
 
 **Recommendation:**  
 Investigate internal issues or macroeconomic causes.
